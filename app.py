@@ -3,7 +3,7 @@ import base64
 from datetime import datetime
 from PIL import Image
 from dotenv import load_dotenv
-from config import client  # your Gemini AI client
+from config import client 
 
 load_dotenv()
 
